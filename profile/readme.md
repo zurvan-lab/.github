@@ -13,8 +13,11 @@ Our current projects:
 Link:
 
 **Nostr** - ```npub17f8qqz0dk84ts9aqcj9hsnhy86tae6sjp6854yp8qjw2lvku49zqndtv9d```
+
 **bluesky** - https://bsky.app/profile/zurvan.xyz
+
 **Twitter** - https://x.com/zurvan-labs/
+
 **Telegram** - https://t.me/zurvan_labs
 
 **Donations**: 
