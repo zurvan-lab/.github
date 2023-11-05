@@ -10,23 +10,14 @@ Our current projects:
 * [TimeTrace](https://github.com/zurvan-lab/TimeTrace)
 * [IPNN](https://github.com/zurvan-lab/IPNN)
 
-Link:
-
-**Nostr** - ```npub17f8qqz0dk84ts9aqcj9hsnhy86tae6sjp6854yp8qjw2lvku49zqndtv9d```
-
+Links:<br>
+**Nostr** - ```npub17f8qqz0dk84ts9aqcj9hsnhy86tae6sjp6854yp8qjw2lvku49zqndtv9d``` </br>
 **bluesky** - https://bsky.app/profile/zurvan.xyz
 
-**Twitter** - https://x.com/zurvan-labs/
-
-**Telegram** - https://t.me/zurvan_labs
-
-**Donations**: 
-
+**Donations**: </br>
 **Btc :coin:**:
-```bc1qzrvvlet06932m5aka59cycdn024mqz3l35mv0f```
-
+```bc1qzrvvlet06932m5aka59cycdn024mqz3l35mv0f```</br>
 **Sol :frog:**:
-```G96Vfmahoi5uEhkg1Aaj3AXp3FsNsrGAtBigc88ob4Ho```
-
+```G96Vfmahoi5uEhkg1Aaj3AXp3FsNsrGAtBigc88ob4Ho```</br>
 **Ton :gem:**:
-```EQCKYBzUI3M5Q1hsLf1oX3dufMM-qdzM_hr9FRGRz4D2CJqb```
+```EQCKYBzUI3M5Q1hsLf1oX3dufMM-qdzM_hr9FRGRz4D2CJqb```</br>
