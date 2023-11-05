@@ -1,4 +1,4 @@
-<img alt="zurvan" src="./profile/zurvan.png" width="150" class="center" />
+<img alt="zurvan" src="./profile/zurvan.png" width="150" height="150" class="center" />
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/EvYB9ZgYvV)
 
