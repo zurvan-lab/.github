@@ -1,7 +1,4 @@
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/EvYB9ZgYvV)
-
-
-Zurvan Labs is a team which is mostly works on p2p Network protocols, databases and some researches.
+Zurvan Labs is a team that is mostly working on p2p Network protocols, databases, and ...
 
 Our current projects:
 
@@ -11,7 +8,7 @@ Our current projects:
 
 Links:<br>
 **Nostr** - ```npub17f8qqz0dk84ts9aqcj9hsnhy86tae6sjp6854yp8qjw2lvku49zqndtv9d``` </br>
-**bluesky** - https://bsky.app/profile/zurvan.xyz
+[**Discord**](https://discord.gg/EvYB9ZgYvV)</br>
 
 **Donations**: </br>
 **Btc :coin:**:
