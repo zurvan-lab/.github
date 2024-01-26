@@ -11,9 +11,8 @@ Links:<br>
 [**Discord**](https://discord.gg/EvYB9ZgYvV)</br>
 
 **Donations**: </br>
-**Btc :coin:**:
+**PAC ⛓️**: ```pc1zzwm9qu3kjw5wsue4ghawulgea66mnwcsh3m59t```</br>
+**BTC :coin:**:
 ```bc1qzrvvlet06932m5aka59cycdn024mqz3l35mv0f```</br>
-**Sol :frog:**:
-```G96Vfmahoi5uEhkg1Aaj3AXp3FsNsrGAtBigc88ob4Ho```</br>
-**Ton :gem:**:
+**TON :gem:**:
 ```EQCKYBzUI3M5Q1hsLf1oX3dufMM-qdzM_hr9FRGRz4D2CJqb```</br>
