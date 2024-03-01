@@ -11,7 +11,7 @@ Links:<br>
 [**Discord**](https://discord.gg/EvYB9ZgYvV)</br>
 
 **Donations**: </br>
-**PAC ⛓️**: ```pc1zzwm9qu3kjw5wsue4ghawulgea66mnwcsh3m59t```</br>
+**PAC ⛓️**: ```pc1z9a2gw07cxae5sjz2pxdwwlqff2jgq9qs4kxnw0```</br>
 **BTC :coin:**:
 ```bc1qzrvvlet06932m5aka59cycdn024mqz3l35mv0f```</br>
 **TON :gem:**:
