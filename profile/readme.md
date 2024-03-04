@@ -1,10 +1,7 @@
 Zurvan Labs (or Zurvan) is a team working on and developing infrastructural softwares.
 
-
-
-Links:<br>
-**Nostr** - ```npub17f8qqz0dk84ts9aqcj9hsnhy86tae6sjp6854yp8qjw2lvku49zqndtv9d``` </br>
 [**Discord**](https://discord.gg/EvYB9ZgYvV)</br>
+
 
 **Donations**: </br>
 **Pactus ⛓️**:
